@@ -1,11 +1,11 @@
 # Hi 👋, I'm Fábio Augusto
 
-🚀 **Software, web, and Game Engineer | Python, JavaScript & GdScript | HTML CSS **  
+🚀 Software, Web & Game Engineer | Python, JavaScript, GDScript | HTML/CSS  
 🇧🇷 Brazil
 
-I build scalable web systems, robust backends, and multiplayer experiences focused on architecture, performance, and autonomy. 
-I work with Python, Django, asynchronous task queues, authoritative servers, and product-driven solutions. 
-I also explore open-source AI, automation, and multiplayer game development in godot engine with gdscript.
+I build scalable web systems, robust backends, and multiplayer experiences focused on architecture, performance, and autonomy.  
+I work with Python, Django, asynchronous task queues, authoritative servers, and product-driven solutions.  
+I also explore open-source AI, automation, and multiplayer game development with Godot and GDScript.
 
 ---
 
@@ -13,10 +13,10 @@ I also explore open-source AI, automation, and multiplayer game development in g
 
 <p align="left">
   <a href="https://github.com/fbsagat">
-    <img src="https://img.shields.io/badge/GitHub-FabioSantos-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-fbsagat-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.facebook.com/fbaugusto">
-    <img src="https://img.shields.io/badge/Facebook-fbaugusto-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-fbaugusto-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 

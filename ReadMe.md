@@ -91,8 +91,8 @@ I also explore open-source AI, automation, and multiplayer game development in g
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fbsagat&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsagat&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fbsagat&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsagat&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---

@@ -15,6 +15,11 @@ I also explore open-source AI, automation, and multiplayer game development with
   <a href="https://github.com/fbsagat">
     <img src="https://img.shields.io/badge/GitHub-fbsagat-181717?style=for-the-badge&logo=github" />
   </a>
+
+  <a href="https://www.linkedin.com/in/fbaugustosantos">
+    <img src="https://img.shields.io/badge/LinkedIn-Fábio%20Augusto%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <a href="https://www.facebook.com/fbaugusto">
     <img src="https://img.shields.io/badge/Facebook-fbaugusto-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>

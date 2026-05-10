@@ -91,8 +91,8 @@ I also explore open-source AI, automation, and multiplayer game development in g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://ghstats.dev/api/card?username=fbsagat&theme=tokyonight" />
-  <img width="37%" src="https://ghstats.dev/api/top-langs?username=fbsagat&theme=tokyonight&layout=compact" />
+  <img width="52%" src="https://ghstats.dev/api/card?username=fbsagat&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=fbsagat&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
